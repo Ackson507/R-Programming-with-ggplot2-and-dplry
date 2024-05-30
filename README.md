@@ -70,7 +70,7 @@ print(summary_stats)
 ```
 
 ### Exploratory Data Analysis (EDA) using ggplot2
-Use summary statistics and simple visualizations (like histograms, box plots, and scatter plots) to get a feel for the data. We will just filter the dataflame into 2 datasets to only consist of 5 diseases across all countries and another fillter to include five disease across country to zambia only.
+Use summary statistics and simple visualizations (like histograms, box plots, and scatter plots) to get a feel for the data. We will just filter the dataflame into 2 datasets to only consist of 5 diseases across all countries and another filter to include five disease across country to zambia only.
 
 ```r
 #1. Lets start with filtering column for disease so that we study just five condition in our df_clean
