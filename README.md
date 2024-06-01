@@ -1,7 +1,8 @@
 # R-Programming-with-ggplot2-and-dplry
 ### Overview of R
-R is a programming language and free software environment widely used for statistical computing, data analysis, and graphical representation. Personally, Python is easy to use interms of code and has high community for lessorn, learning and tutorials so its a popular language and powerful. R is renowned for its capability to produce high-quality plots and graphics, which can be customized to a GREAT EXTENT, and this is what will take advantage in this project. R has default IDE which is R Studio which is very very much user friendly and interactive. With a backgroud in statistics, When it comes to statistical analysis this is best language to use for many projects to come. I will do other projects with R for statistical test but at the moment will do some basic cleaning using dplyr and ggplot2 visualization. Use cases;
-Academic Research: Widely used in academia for statistical research and teaching.
+R is a programming language and free software environment widely used for statistical computing, data analysis, and graphical representation. Personally, Python is easy to use interms of code and has high community for lessorn, learning and tutorials so its a popular language and powerful. R is renowned for its capability to produce high-quality plots and graphics, which can be customized to a GREAT EXTENT, and this is what will take advantage. R has default IDE which is R Studio which is very much user friendly and interactive. With a backgroud in statistics, when it comes to statistical analysis and visual analytics I choose R among data languages. I will do other projects with R for statistical tests but at the moment I will do some basic cleaning using dplyr and ggplot2 visualization. 
+Use cases;
+- Academic Research: Widely used in academia for statistical research and teaching.
 - Data Science and Analytics: Employed by data scientists for exploratory data analysis, modeling, and visualization.
 - Biostatistics and Bioinformatics: Utilized in the analysis of biological data, such as genomics and clinical trials.
 - Finance: Used for financial modeling, risk assessment, and quantitative analysis.
@@ -11,7 +12,7 @@ Academic Research: Widely used in academia for statistical research and teaching
 
 
 ### Problem Statement
-The project aims to analyze the mortality data from different countries to understand the impact of various health diseases on death rates from 2007 to 2020.
+The project aims to analyze the mortality data from different countries to understand the impact of various health diseases on death rates from 1990 to 2020.
 
 ### Objective
 - Trends in mortality rates over the specified period.
